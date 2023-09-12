@@ -1,5 +1,5 @@
 # s21_string
-string.h implementation
+string.h implementation 
 
 ## Information
 
